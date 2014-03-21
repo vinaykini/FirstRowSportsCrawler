@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=letter
+comment0.target=TNode(char)
+comment1.params=page
+comment1.target=void\ setPage(WebPage)
+comment2.params=
+comment2.target=java.util.HashSet\ getPage()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

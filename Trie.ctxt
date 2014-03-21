@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=word\ page
+comment0.target=void\ insert(java.lang.String,\ WebPage)
+comment1.params=word
+comment1.target=java.util.HashSet\ find(java.lang.String)
+comment2.params=partial
+comment2.target=void\ autoComplete(java.lang.String)
+comment3.params=sb\ focusNode
+comment3.target=void\ complete(java.lang.String,\ TNode)
+comment4.params=
+comment4.target=void\ List()
+numComments=5

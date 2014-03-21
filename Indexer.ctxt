@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=title\ link
+comment0.target=void\ insert(java.lang.String,\ WebPage)
+comment1.params=
+comment1.target=Trie\ getTrie()
+numComments=2
